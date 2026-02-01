@@ -1,6 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Shehzaad Khan
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ███████╗██╗  ██╗███████╗██╗  ██╗███████╗ █████╗  █████╗ ██████╗       ║
+║   ██╔════╝██║  ██║██╔════╝██║  ██║╚══███╔╝██╔══██╗██╔══██╗██╔══██╗      ║
+║   ███████╗███████║█████╗  ███████║  ███╔╝ ███████║███████║██║  ██║      ║
+║   ╚════██║██╔══██║██╔══╝  ██╔══██║ ███╔╝  ██╔══██║██╔══██║██║  ██║      ║
+║   ███████║██║  ██║███████╗██║  ██║███████╗██║  ██║██║  ██║██████╔╝      ║
+║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=ML+Engineer+%7C+Systems+Builder;From+Kernel+to+Neural+Networks" alt="Typing SVG" />
@@ -11,7 +22,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehzaad-khan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shehzaad_khan)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shehzaad-khan&color=00D9FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Shehzaad-khan&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/Shehzaad-khan/Shehzaad-khan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -19,89 +38,85 @@
 
 ## 🎯 About Me
 
-Third-year CS student at **PES University** with a passion for building intelligent systems that scale. I work at the intersection of **systems engineering** and **machine learning** — from kernel modules to neural networks.
-
-**What drives me:** Understanding the *why* behind the *how*. Whether debugging distributed systems or training models, I think in first principles.
+**PES University** CS student (CGPA: 8.26) building at the intersection of **systems engineering** and **ML** — from kernel modules to neural networks.
 
 ---
 
-## �️ Tech Stack
+## 💻 Tech Stack
 
-```python
-tech_stack = {
-    "languages": ["Python", "C", "C++", "Java", "JavaScript", "Scala"],
-    "ml_ai": ["PyTorch", "TensorFlow", "scikit-learn", "Pandas", "NumPy"],
-    "distributed": ["Kafka", "Spark", "Hadoop"],
-    "backend": ["FastAPI", "Flask", "Node.js", "Express"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis", "Neo4j"],
-    "tools": ["Linux", "Docker", "Git"]
-}
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎮 [HangmanMind — AI Game-Playing Agent](https://github.com/moaahil1110/Machine-Learning-Hackathon-Hangman)
-**94.40% win rate** on unseen games using hybrid intelligence:
-- Combined Hidden Markov Models, dynamic word filtering, and Deep Q-Networks
-- Adaptive strategy blending (HMM 30% + Word Filter 50% + RL 20%)
+**94.40% win rate** combining HMMs, word filtering, and Deep Q-Networks
+- Adaptive strategy blending based on search space
 - Zero repeated guesses, 2.13 avg wrong attempts
 
-*Pure RL achieved 7.18%. Adding domain knowledge → 94.40%. Sometimes smart AI knows when to use rules.*
-
-**Tech:** PyTorch, HMM, DQN, Reinforcement Learning
+**Tech:** PyTorch, HMM, DQN
 
 ---
 
 ### 🌊 [MetricFlow — Real-Time Distributed Monitoring](https://github.com/Shehzaad-khan/kafka-spark-metrics-pipeline)
-Production-grade monitoring system handling **1000+ events/sec** with sub-second latency:
-- Kafka → Spark Streaming → Windowed Analytics → Intelligent Alerting
-- Multi-metric correlation (CPU + Memory = real problems)
-- Fault-tolerant with ZooKeeper coordination and automatic rebalancing
-- Secure multi-machine deployment via ZeroTier VPN
+**1000+ events/sec** with sub-second latency
+- Kafka → Spark Streaming → Windowed Analytics → Alerts
+- Fault-tolerant with ZooKeeper coordination
+- Multi-machine deployment
 
-*Detects degradation before users notice.*
-
-**Tech:** Apache Kafka, Spark Streaming, Python, ZooKeeper
+**Tech:** Kafka, Spark Streaming, Python
 
 ---
 
-### 🗂️ Mini HDFS — Distributed File System from Scratch
-Built core HDFS primitives to understand distributed storage:
+### 🗂️ Mini HDFS — Distributed File System
+Built core HDFS primitives from scratch:
 - Namenode-Datanode architecture with 2MB chunking
-- 2x replication with exponential backoff and automatic recovery
-- Heartbeat monitoring (5s intervals) + failure detection
-- Custom TCP protocol with length-prefixed framing
-- Flask dashboard for real-time visualization
+- 2x replication with auto-recovery
+- Heartbeat monitoring + failure detection
+- Flask dashboard for visualization
 
-*Most use HDFS. Few understand why it works this way.*
-
-**Tech:** Python, TCP Sockets, Multi-threading, Flask
+**Tech:** Python, TCP Sockets, Multi-threading
 
 ---
 
 ### 🐧 Linux Process Memory Tracker
-Kernel-level introspection to understand memory management:
-- Custom kernel module with process lifecycle hooks
-- Parsed `/proc/[pid]/maps` and `/proc/[pid]/smaps` for memory regions
-- Tracked RSS, dirty pages, heap allocations across `fork()` boundaries
+Kernel-level memory introspection:
+- Custom kernel module
+- Parsed `/proc` for memory regions and RSS tracking
 - Visualized virtual → physical memory mapping
 
-*Can debug at the kernel level when higher-level tools fail.*
-
-**Tech:** C, Linux Kernel Modules, /proc filesystem
+**Tech:** C, Linux Kernel Modules
 
 ---
 
-### 📈 MarketPulse — Time Series Stock Analysis
-Statistical rigor meets forecasting:
-- Seasonal decomposition (trend + seasonality + residuals)
-- SARIMA modeling with ADF stationarity testing
+### 📈 MarketPulse — Time Series Analysis
+Stock forecasting with statistical rigor:
+- SARIMA modeling with seasonal decomposition
 - Markov Chain volatility analysis
-- Not just sklearn predictions — proper statistical validation
 
-**Tech:** Python, Pandas, Statsmodels, SARIMA
+**Tech:** Python, Pandas, Statsmodels
 
 ---
 
@@ -118,32 +133,25 @@ Statistical rigor meets forecasting:
 ## 💼 Experience
 
 **Freelance Full-Stack Developer** @ AutoML Platform *(Nov 2024)*
-- Built production auth system (login, signup, verification, password reset) in 1 week
-- Implemented JWT sessions with React frontend and FastAPI backend
-- Integrated Firebase Auth + MongoDB for persistent storage
+- Production auth system in 1 week (React + FastAPI + Firebase + MongoDB)
+- JWT sessions, email verification, password reset
 
-**Tech:** React, FastAPI, Firebase, MongoDB, JWT
+**Tech:** React, FastAPI, Firebase, MongoDB
 
 ---
 
 ## 🎓 Education
 
-**PES University, Bengaluru** — B.Tech in Computer Science *(2023 – 2027)*  
-CGPA: 8.26/10
-
-**Key Courses:** Data Structures, Algorithms, Operating Systems, Distributed Systems, Machine Learning, Cloud Computing
+**PES University** — B.Tech CS *(2023 – 2027)* | CGPA: 8.26/10
 
 ---
 
 ## 🔬 Current Work
 
-### E.C.H.O — Chrome Extension with AI Search
-AI-powered unified search across browsing history, Gmail, and YouTube:
-- Natural language queries with RAG-based retrieval
-- Privacy-first: local vector storage
-- Digital wellbeing analytics
+### E.C.H.O — AI-Powered Chrome Extension
+Unified search across browser history, Gmail, and YouTube with RAG-based retrieval and local vector storage.
 
-**Tech:** React, Chrome Extensions API, Vector DB, RAG
+**Tech:** React, Chrome API, Vector DB, RAG
 
 ---
 
@@ -163,11 +171,7 @@ AI-powered unified search across browsing history, Gmail, and YouTube:
 
 ## 📫 Let's Connect
 
-Interested in discussing ML systems, distributed architecture, or interesting problems? Reach out:
-
-📧 [mdshehzaadkhan001@gmail.com](mailto:mdshehzaadkhan001@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/shehzaad-khan-b25619346)  
-💻 [LeetCode](https://leetcode.com/shehzaad_khan)
+📧 [mdshehzaadkhan001@gmail.com](mailto:mdshehzaadkhan001@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/shehzaad-khan-b25619346) | 💻 [LeetCode](https://leetcode.com/shehzaad_khan)
 
 ---
 
