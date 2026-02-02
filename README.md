@@ -41,6 +41,10 @@
 
 ## 🎯 About Me
 
+```bash
+user@shehzaad:~$ ./init_profile.sh --role='Systems/ML Engineer'
+```
+
 > **"I don't just write code — I engineer solutions that reason about trade-offs, scale under pressure, and behave correctly in the real world."**
 
 I'm a **third-year Computer Science student at PES University** (CGPA: 8.26/10) who approaches software engineering as a **thinking discipline**, not just a coding exercise. My work lives at the intersection of:
@@ -58,7 +62,35 @@ I believe in **first-principles thinking**. Whether I'm debugging a kernel modul
 
 ---
 
+## 📊 GitHub Stats Dashboard
+
+<div align="center">
+
+```bash
+user@shehzaad:~$ cat stats.json
+```
+
+| 🎯 Total Commits | 🔀 Pull Requests | 🐛 Issues Solved | 📚 Repositories |
+|:----------------:|:----------------:|:----------------:|:----------------:|
+| **399+** | **94%** | **40+ Problems** | **24+** |
+
+<br/>
+
+![Shehzaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shehzaad-khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzaad-khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 💻 Tech Arsenal
+
+```bash
+user@shehzaad:~$ cat tech_stack.yaml
+```
 
 <div align="center">
 
@@ -105,7 +137,15 @@ I believe in **first-principles thinking**. Whether I'm debugging a kernel modul
 
 ## 🚀 Featured Projects
 
+```bash
+user@shehzaad:~$ ls -la ~/projects/featured/
+```
+
 ### 🎮 **[HangmanMind — Intelligent Game-Playing Agent](https://github.com/moaahil1110/Machine-Learning-Hackathon-Hangman)**
+
+<details open>
+<summary><b>🔍 View Details</b></summary>
+
 ```yaml
 Type: Reinforcement Learning | Probabilistic Models
 Tech: PyTorch, Hidden Markov Models, Deep Q-Networks
@@ -130,9 +170,15 @@ Achievement: 94.40% Win Rate on 2,000 Unseen Games
   <img src="https://img.shields.io/badge/RL-FF6B6B?style=flat-square"/>
 </div>
 
+</details>
+
 ---
 
 ### 🌊 **[MetricFlow — Real-Time Distributed Monitoring System](https://github.com/Shehzaad-khan/kafka-spark-metrics-pipeline)**
+
+<details open>
+<summary><b>🔍 View Details</b></summary>
+
 ```yaml
 Type: Distributed Systems | Stream Processing
 Tech: Apache Kafka, Apache Spark Streaming, Python
@@ -162,9 +208,15 @@ Metric Producers → Kafka Topics → Spark Streaming → Windowed Analytics →
   <img src="https://img.shields.io/badge/Distributed-00D9FF?style=flat-square"/>
 </div>
 
+</details>
+
 ---
 
 ### 🗂️ **[Mini HDFS — Distributed File System from Scratch](#)**
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+
 ```yaml
 Type: Distributed Systems | Low-Level Networking
 Tech: Python, TCP Sockets, Multi-threading
@@ -189,9 +241,15 @@ Concepts: Chunking, Replication, Fault Tolerance
   <img src="https://img.shields.io/badge/Multi--threading-FF6B6B?style=flat-square"/>
 </div>
 
+</details>
+
 ---
 
 ### 🐧 **[Linux Process Memory Tracker](#)**
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+
 ```yaml
 Type: Operating Systems | Kernel Programming
 Tech: C, Linux Kernel Modules, /proc Filesystem
@@ -221,9 +279,15 @@ Focus: Memory Management, Process Lifecycle
   <img src="https://img.shields.io/badge/Kernel-FF6B6B?style=flat-square"/>
 </div>
 
+</details>
+
 ---
 
 ### 📈 **[MarketPulse — Time Series Stock Analysis](#)**
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+
 ```yaml
 Type: Data Analytics | Statistical Modeling
 Tech: Python, Pandas, Statsmodels, SARIMA
@@ -244,9 +308,15 @@ Methods: Seasonal Decomposition, ADF Testing, Markov Chains
   <img src="https://img.shields.io/badge/Time%20Series-00D9FF?style=flat-square"/>
 </div>
 
+</details>
+
 ---
 
 ### 🏠 **[RentWise — Airbnb Price Prediction](#)**
+
+<details>
+<summary><b>🔍 View Details</b></summary>
+
 ```yaml
 Type: Machine Learning | Regression Analysis
 Tech: Python, Scikit-learn, Feature Engineering
@@ -266,24 +336,69 @@ Models: Linear Regression, Random Forest, SVR, Neural Networks
   <img src="https://img.shields.io/badge/ML-FF6B6B?style=flat-square"/>
 </div>
 
+</details>
+
 ---
 
 ### 🌐 **Other Notable Work**
 
-| Project | Tech Stack | What I Built |
-|---------|-----------|--------------|
-| **LikeLoop — Social Media Clone** | MERN + Cloudinary | Full-stack Instagram clone with posts, comments, friends, and cloud image storage |
-| **Throne of Art — Marketplace** | Flask, PostgreSQL, Supabase | E-commerce platform with role-based access, secure auth, and invoice generation |
-| **Custom DHCP Protocol** | Python, Raw Sockets, SSL | Client-server protocol over Ethernet with IP lease management and encrypted control channel |
-| **PhoneBook GUI Application** | Python, Tkinter, SQLite | Desktop phonebook with authentication, CRUD operations, and persistent storage |
-| **Ping Pong Game** | Python, Pygame | Complete Pong game with AI opponent, physics-based collisions, and sound effects |
+```bash
+user@shehzaad:~$ ls ~/projects/additional/
+```
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+**💬 LikeLoop — Social Media Clone**
+- Full-stack Instagram clone
+- Posts, comments, friends system
+- Cloudinary image storage
+- `MERN` `Cloudinary` `REST API`
+
+</td>
+<td width="50%">
+
+**🎨 Throne of Art — Marketplace**
+- E-commerce platform
+- Role-based access control
+- Secure authentication
+- `Flask` `PostgreSQL` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌐 Custom DHCP Protocol**
+- Client-server over Ethernet
+- IP lease management
+- SSL/TLS encryption
+- `Python` `Raw Sockets` `SSL`
+
+</td>
+<td width="50%">
+
+**📱 PhoneBook GUI Application**
+- Desktop CRUD application
+- SQLite persistence
+- User authentication
+- `Python` `Tkinter` `SQLite`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
+```bash
+user@shehzaad:~$ cat experience.log
+```
+
 ### **Freelance Full-Stack Developer** @ AutoML Platform
-*Nov 2024 • Remote*
+`Nov 2024` • `Remote` • `Production Delivery in 1 Week`
 
 **The Brief:** Build a production-ready auth system in one week for a client's ML platform.
 
@@ -301,28 +416,56 @@ Models: Linear Regression, Random Forest, SVR, Neural Networks
 
 ## 🎓 Education
 
-**PES University, Bengaluru** — *B.Tech in Computer Science and Engineering*  
-📅 2023 – 2027 | 🎯 CGPA: 8.26/10 (up to 5th semester)
+```bash
+user@shehzaad:~$ cat education.txt
+```
 
-**Relevant Coursework:**
+<table width="100%">
+<tr>
+<td width="60%">
+
+**🎓 PES University, Bengaluru**  
+*B.Tech in Computer Science and Engineering*  
+📅 2023 – 2027 | 🎯 CGPA: **8.26/10** (5th sem)
+
+**Core Coursework:**
 - Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Distributed Systems
-- Machine Learning
-- Generative AI
-- Cloud Computing
+- Operating Systems & Computer Networks
+- Distributed Systems & Cloud Computing
+- Machine Learning & Generative AI
 
-**High School:** St. Francis PU Composite College (95.16%) | St. Mira's High School (95.6%)
+</td>
+<td width="40%">
+
+**📚 Academic Excellence**
+
+**Pre-University:**  
+St. Francis PU College  
+📊 **95.16%**
+
+**High School:**  
+St. Mira's High School  
+📊 **95.6%**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔬 Current Work — Capstone Project
 
-### **E.C.H.O — Efficient Contextualized History Orchestrator**
-> An AI-powered Chrome extension that makes your digital history actually useful.
+```bash
+user@shehzaad:~$ ./capstone_status.sh
+> Status: IN_DEVELOPMENT
+> Progress: 65%
+```
 
-**The Problem:** Your browser history, Gmail, and YouTube activity are disconnected data silos. Finding "that article I read 2 weeks ago" is impossible.
+### **E.C.H.O — Efficient Contextualized History Orchestrator**
+> *An AI-powered Chrome extension that makes your digital history actually useful.*
+
+**The Problem:**  
+Your browser history, Gmail, and YouTube activity are disconnected data silos. Finding "that article I read 2 weeks ago" is impossible.
 
 **The Solution:**
 - 🔍 **Unified Search:** Natural language queries across Gmail, Chrome history, and YouTube
@@ -334,34 +477,41 @@ Models: Linear Regression, Random Forest, SVR, Neural Networks
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Shehzaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shehzaad-khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzaad-khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 What I'm Exploring Now
 
 ```python
+user@shehzaad:~$ cat current_focus.py
+
 current_focus = {
-    "systems": ["Rust for systems programming", "Distributed consensus (Paxos/Raft)"],
-    "ml_ops": ["Model deployment pipelines", "A/B testing infrastructure"],
-    "ai": ["Agentic AI systems", "RAG optimization", "LLM fine-tuning"],
-    "learning": ["Advanced algorithms", "System design patterns"]
+    "systems": [
+        "Rust for systems programming",
+        "Distributed consensus (Paxos/Raft)"
+    ],
+    "ml_ops": [
+        "Model deployment pipelines",
+        "A/B testing infrastructure"
+    ],
+    "ai": [
+        "Agentic AI systems",
+        "RAG optimization",
+        "LLM fine-tuning"
+    ],
+    "learning": [
+        "Advanced algorithms",
+        "System design patterns"
+    ]
 }
+
+print(f"🚀 Currently focused on {len(current_focus)} major areas")
 ```
 
 ---
 
 ## 🌟 Core Principles
+
+```bash
+user@shehzaad:~$ cat ~/.philosophy
+```
 
 > **Think in Systems** — Every bug is a system failure. Every optimization is a trade-off.
 
@@ -375,24 +525,51 @@ current_focus = {
 
 ## 📫 Let's Connect
 
+```bash
+user@shehzaad:~$ ./connect.sh --mode=professional
+```
+
 I'm always interested in discussing:
 - 🤖 ML system design and production challenges
 - 🏗️ Distributed systems architecture
 - 💡 Open-source collaboration opportunities
 - 🎯 Interesting problems that need solving
 
+<div align="center">
+
 **Reach out:**
-- 📧 Email: [mdshehzaadkhan001@gmail.com](mailto:mdshehzaadkhan001@gmail.com)
-- 💼 LinkedIn: [shehzaad-khan](https://linkedin.com/in/shehzaad-khan-b25619346)
-- 🐙 GitHub: [@Shehzaad-khan](https://github.com/Shehzaad-khan)
-- 💻 LeetCode: [@shehzaad_khan](https://leetcode.com/shehzaad_khan)
+
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshehzaadkhan001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehzaad-khan-b25619346)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehzaad-khan)
+[![LeetCode](https://img.shields.io/badge/💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shehzaad_khan)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"The best way to predict the future is to build it — one commit at a time."*
+```bash
+user@shehzaad:~$ fortune | cowsay
+```
+
+```
+ _________________________________________
+/ "The best way to predict the future    \
+\ is to build it — one commit at a time." /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 **⭐ If you find my work interesting, consider starring some repos!**
+
+```bash
+user@shehzaad:~$ echo "Thanks for visiting! 🚀"
+```
 
 </div>
