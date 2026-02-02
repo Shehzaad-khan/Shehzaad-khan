@@ -478,56 +478,6 @@ Digital wellbeing
 
 ---
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🦀  
-**Rust**  
-Systems programming
-
-</td>
-<td align="center" width="25%">
-
-🔄  
-**Distributed Systems**  
-Paxos & Raft
-
-</td>
-<td align="center" width="25%">
-
-🤖  
-**MLOps**  
-Deployment pipelines
-
-</td>
-<td align="center" width="25%">
-
-🧠  
-**Agentic AI**  
-RAG & LLM tuning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Core Principles
-
-```python
-principles = {
-    "🎯": "Think in systems, not just code",
-    "🚀": "Ship fast, iterate faster",
-    "❓": "Question everything. Understand WHY",
-    "⚡": "Build to learn, not to pad resume"
-}
-```
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
