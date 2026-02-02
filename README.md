@@ -16,15 +16,16 @@
 ### `Systems Thinker` • `ML Engineer` • `Builder of Intelligent Systems`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+from+Kernel+to+Neural+Networks;Distributed+Systems+%7C+Deep+Learning;Understanding+the+Black+Box" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+from+Kernel+to+Neural+Networks;Distributed+Systems+%7C+Deep+Learning;Understanding+the+Black+Box" alt="Typing SVG" />
 </p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshehzaadkhan001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehzaad-khan-b25619346)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehzaad-khan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shehzaad_khan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shehzaad-portfolio.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shehzaad-khan&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Shehzaad-khan&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -41,46 +42,70 @@
 
 ## 🎯 About Me
 
-```bash
-user@shehzaad:~$ ./init_profile.sh --role='Systems/ML Engineer'
-```
+<div align="center">
 
-> **"I don't just write code — I engineer solutions that reason about trade-offs, scale under pressure, and behave correctly in the real world."**
+### 🎓 Third-Year CS Student @ PES University | ⭐ CGPA: 8.26/10
 
-I'm a **third-year Computer Science student at PES University** (CGPA: 8.26/10) who approaches software engineering as a **thinking discipline**, not just a coding exercise. My work lives at the intersection of:
+</div>
 
-- **🔧 Systems Engineering** — Understanding how things *actually* work: memory allocation, distributed consensus, process scheduling
-- **🧠 Machine Learning** — Building intelligent systems that learn, adapt, and make decisions under uncertainty
-- **⚡ Scalable Infrastructure** — Designing pipelines that don't break when data 10x's overnight
+<table>
+<tr>
+<td width="33%" align="center">
 
-I believe in **first-principles thinking**. Whether I'm debugging a kernel module, tuning a neural network, or architecting a streaming pipeline — I ask *why* before *how*. This lets me:
-- Solve problems others consider "too hard"
-- Debug systems at multiple levels of abstraction
-- Make architectural decisions that hold up under real-world constraints
+### 🔧 Systems
+**Think Deep**
+- Kernel modules
+- Distributed consensus  
+- Memory management
 
-**Current Mission:** Bridging the gap between ML research and production systems — building models that ship, not just train.
+</td>
+<td width="33%" align="center">
 
----
+### 🧠 Machine Learning
+**Build Smart**
+- Neural networks
+- RL agents
+- Production ML
 
-## 📊 GitHub Stats Dashboard
+</td>
+<td width="33%" align="center">
+
+### ⚡ Infrastructure
+**Scale Fast**
+- Kafka pipelines
+- Real-time streaming
+- Fault tolerance
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-```bash
-user@shehzaad:~$ cat stats.json
+```python
+mindset = "Ask WHY before HOW"
 ```
 
-| 🎯 Total Commits | 🔀 Pull Requests | 🐛 Issues Solved | 📚 Repositories |
-|:----------------:|:----------------:|:----------------:|:----------------:|
-| **399+** | **94%** | **40+ Problems** | **24+** |
+**🎯 Mission:** Research → Production | Models that ship, not just train
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| 🎯 Commits | 🔀 Contributions | 🐛 Problems Solved | 📚 Repos |
+|:----------:|:----------------:|:------------------:|:--------:|
+| **399+** | **94%** | **60+** | **24+** |
 
 <br/>
 
-![Shehzaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shehzaad-khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shehzaad-khan&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFA657&text_color=c9d1d9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzaad-khan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzaad-khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFA657&currStreakLabel=FF6B6B)
 
 </div>
 
@@ -88,48 +113,56 @@ user@shehzaad:~$ cat stats.json
 
 ## 💻 Tech Arsenal
 
-```bash
-user@shehzaad:~$ cat tech_stack.yaml
-```
-
 <div align="center">
 
-### Languages I Think In
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### Systems & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-
-### ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ARM Assembly](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 ### Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### AI & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Big Data & Streaming
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-00A4EF?style=for-the-badge&logo=apache&logoColor=white)
+
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -137,253 +170,36 @@ user@shehzaad:~$ cat tech_stack.yaml
 
 ## 🚀 Featured Projects
 
-```bash
-user@shehzaad:~$ ls -la ~/projects/featured/
-```
-
-### 🎮 **[HangmanMind — Intelligent Game-Playing Agent](https://github.com/moaahil1110/Machine-Learning-Hackathon-Hangman)**
-
-<details open>
-<summary><b>🔍 View Details</b></summary>
-
-```yaml
-Type: Reinforcement Learning | Probabilistic Models
-Tech: PyTorch, Hidden Markov Models, Deep Q-Networks
-Achievement: 94.40% Win Rate on 2,000 Unseen Games
-```
-
-**The Challenge:** Build an AI that doesn't just guess — it *thinks*.
-
-**The Solution:**
-- 🎯 **Hybrid Architecture** combining three intelligence layers:
-  - **HMMs** for positional letter probability modeling
-  - **Word Filtering** with dynamic corpus narrowing
-  - **DQN** for strategic decision refinement
-- 🧠 **Adaptive Strategy Blending:** Dynamically weights HMM (30%) + Word Filter (50%) + RL (20%) based on search space
-- ⚡ **Near-Perfect Efficiency:** 0 repeated guesses, 2.13 avg wrong guesses
-
-**Key Insight:** Pure RL got 7.18% accuracy. Adding domain knowledge skyrocketed it to 94.40%. *Sometimes the smartest AI knows when to be dumb and leverage rules.*
-
-<div align="right">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RL-FF6B6B?style=flat-square"/>
-</div>
-
-</details>
-
----
-
-### 🌊 **[MetricFlow — Real-Time Distributed Monitoring System](https://github.com/Shehzaad-khan/kafka-spark-metrics-pipeline)**
-
-<details open>
-<summary><b>🔍 View Details</b></summary>
-
-```yaml
-Type: Distributed Systems | Stream Processing
-Tech: Apache Kafka, Apache Spark Streaming, Python
-Scale: Sub-second latency on 1000+ events/sec
-```
-
-**The Problem:** Traditional monitoring systems choke under load and fail silently.
-
-**The Architecture:**
-```
-Metric Producers → Kafka Topics → Spark Streaming → Windowed Analytics → Alert Engine
-     ↓                  ↓                ↓                    ↓
-  (CPU/MEM)      (Partitioned)    (30s windows)      (Multi-metric correlation)
-```
-
-**What Makes It Production-Grade:**
-- ⚙️ **Fault Tolerance:** ZooKeeper-coordinated consumer groups with automatic rebalancing
-- 📊 **Windowed Aggregations:** 30-second tumbling windows with 10-second slide intervals
-- 🚨 **Intelligent Alerting:** Multi-metric correlation (e.g., high CPU + low memory = real problem)
-- 🔗 **Secure Multi-Machine Deployment:** ZeroTier VPN for distributed broker-consumer communication
-
-**Impact:** Detects performance degradation **before** user-facing failures occur.
-
-<div align="right">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Distributed-00D9FF?style=flat-square"/>
-</div>
-
-</details>
-
----
-
-### 🗂️ **[Mini HDFS — Distributed File System from Scratch](#)**
-
-<details>
-<summary><b>🔍 View Details</b></summary>
-
-```yaml
-Type: Distributed Systems | Low-Level Networking
-Tech: Python, TCP Sockets, Multi-threading
-Concepts: Chunking, Replication, Fault Tolerance
-```
-
-**The Goal:** Understand distributed file systems by building the core primitives of Hadoop HDFS.
-
-**What I Built:**
-- 🏗️ **Namenode-Datanode Architecture:** Central metadata server coordinating 2+ storage nodes
-- 📦 **Automatic Chunking:** Files split into 2MB chunks with configurable size
-- 🔄 **2x Replication with Retry Logic:** Exponential backoff, replication queue, automatic re-replication
-- 💓 **Heartbeat Monitoring:** 5-second intervals with timeout-based failure detection
-- 🛡️ **Length-Prefixed TCP Protocol:** Custom framing to prevent message fragmentation
-- 📊 **Flask Dashboard:** Real-time system health and chunk distribution visualization
-
-**Why This Matters:** Most engineers use HDFS. Few understand *why* it's designed this way. This project proves I can reason about distributed consensus, network failures, and data durability.
-
-<div align="right">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCP-00599C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multi--threading-FF6B6B?style=flat-square"/>
-</div>
-
-</details>
-
----
-
-### 🐧 **[Linux Process Memory Tracker](#)**
-
-<details>
-<summary><b>🔍 View Details</b></summary>
-
-```yaml
-Type: Operating Systems | Kernel Programming
-Tech: C, Linux Kernel Modules, /proc Filesystem
-Focus: Memory Management, Process Lifecycle
-```
-
-**The Deep Dive:** Most developers treat the OS as a black box. I wanted to open it.
-
-**What I Implemented:**
-- 🔧 **Custom Kernel Module:** Demonstrates kernel-space initialization and cleanup
-- 🧵 **Multi-Process Spawning:** Parent creates child processes with dynamic memory allocation
-- 📊 **Memory Introspection via `/proc`:**
-  - Parsed `/proc/[pid]/maps` for memory regions
-  - Extracted `/proc/[pid]/smaps` for RSS, dirty pages, heap allocations
-- 🔍 **Parent-Child Tracking:** Observed memory behavior across `fork()` boundaries
-
-**What I Learned:**
-- How virtual memory *actually* maps to physical RAM
-- The difference between allocated vs resident memory
-- Why memory fragmentation happens at the OS level
-
-**Signal to Recruiters:** I can debug production issues at the kernel level when higher-level tools fail.
-
-<div align="right">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kernel-FF6B6B?style=flat-square"/>
-</div>
-
-</details>
-
----
-
-### 📈 **[MarketPulse — Time Series Stock Analysis](#)**
-
-<details>
-<summary><b>🔍 View Details</b></summary>
-
-```yaml
-Type: Data Analytics | Statistical Modeling
-Tech: Python, Pandas, Statsmodels, SARIMA
-Methods: Seasonal Decomposition, ADF Testing, Markov Chains
-```
-
-**End-to-End Analytics Pipeline:**
-- 📊 **Seasonal Decomposition:** Separated trend, seasonality, and residuals
-- 📉 **Stationarity Testing:** Augmented Dickey-Fuller tests for model readiness
-- 🔮 **SARIMA Forecasting:** Captured both trend and seasonal patterns
-- 🎲 **Markov Chain Modeling:** Probabilistic state transitions for volatility analysis
-
-**Why This Project Stands Out:** It's not just "run sklearn and get predictions." I applied statistical rigor, validated assumptions, and interpreted results in context.
-
-<div align="right">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Time%20Series-00D9FF?style=flat-square"/>
-</div>
-
-</details>
-
----
-
-### 🏠 **[RentWise — Airbnb Price Prediction](#)**
-
-<details>
-<summary><b>🔍 View Details</b></summary>
-
-```yaml
-Type: Machine Learning | Regression Analysis
-Tech: Python, Scikit-learn, Feature Engineering
-Models: Linear Regression, Random Forest, SVR, Neural Networks
-```
-
-**The ML Workflow:**
-1. **Feature Engineering:** Extracted semantic features from reviews, host attributes, and location data
-2. **Model Experimentation:** Compared Linear, RF, SVR, and NN performance
-3. **Clustering Analysis:** K-Means to identify market segments
-4. **Hyperparameter Tuning:** Grid search with cross-validation
-
-**Outcome:** Delivered actionable insights on pricing drivers and market positioning strategies.
-
-<div align="right">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML-FF6B6B?style=flat-square"/>
-</div>
-
-</details>
-
----
-
-### 🌐 **Other Notable Work**
-
-```bash
-user@shehzaad:~$ ls ~/projects/additional/
-```
-
-<table width="100%">
+### 🎮 [HangmanMind](https://github.com/moaahil1110/Machine-Learning-Hackathon-Hangman)
+<table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-**💬 LikeLoop — Social Media Clone**
-- Full-stack Instagram clone
-- Posts, comments, friends system
-- Cloudinary image storage
-- `MERN` `Cloudinary` `REST API`
+**ML • Reinforcement Learning**
 
-</td>
-<td width="50%">
+🎯 Intelligent Hangman AI using hybrid approach  
+📊 **94.40% win rate** on 2,000 unseen words
 
-**🎨 Throne of Art — Marketplace**
-- E-commerce platform
-- Role-based access control
-- Secure authentication
-- `Flask` `PostgreSQL` `Supabase`
+**Architecture:**
+- HMM for letter probability
+- Real-time word filtering  
+- DQN for optimal strategies
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="40%">
 
-**🌐 Custom DHCP Protocol**
-- Client-server over Ethernet
-- IP lease management
-- SSL/TLS encryption
-- `Python` `Raw Sockets` `SSL`
+**Tech Stack**
+```
+Python
+PyTorch
+NumPy
+Matplotlib
+```
 
-</td>
-<td width="50%">
-
-**📱 PhoneBook GUI Application**
-- Desktop CRUD application
-- SQLite persistence
-- User authentication
-- `Python` `Tkinter` `SQLite`
+**Key Metrics**
+- 0 repeated guesses
+- 2.13 avg wrong guesses
+- Pure RL: 7.18% → Hybrid: 94.40%
 
 </td>
 </tr>
@@ -391,61 +207,235 @@ user@shehzaad:~$ ls ~/projects/additional/
 
 ---
 
-## 💼 Professional Experience
+### 🌊 [MetricFlow](https://github.com/Shehzaad-khan/kafka-spark-metrics-pipeline)
+<table>
+<tr>
+<td width="60%">
 
-```bash
-user@shehzaad:~$ cat experience.log
+**Distributed Systems • Real-Time Analytics**
+
+⚡ Real-time monitoring with Kafka + Spark  
+📈 Sub-second latency, 1000+ events/sec
+
+**Pipeline:**
+```
+Producers → Kafka → Spark → Analytics → Alerts
 ```
 
+</td>
+<td width="40%">
+
+**Tech Stack**
+```
+Python
+Apache Kafka
+Apache Spark
+ZeroTier VPN
+```
+
+**Features**
+- 30s windowed aggregation
+- Multi-metric correlation
+- Auto fault tolerance
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 [MarketPulse](#)
+<table>
+<tr>
+<td width="60%">
+
+**Data Analytics • Time Series**
+
+📊 Stock market analysis with SARIMA forecasting  
+🎲 Markov chain volatility modeling
+
+**Analysis:**
+- Seasonal decomposition
+- Stationarity testing (ADF)
+- Trend forecasting
+
+</td>
+<td width="40%">
+
+**Tech Stack**
+```
+Python
+Pandas
+Statsmodels
+Matplotlib
+Seaborn
+```
+
+**Methods**
+- SARIMA models
+- Markov chains
+- Statistical validation
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏠 [RentWise](#)
+<table>
+<tr>
+<td width="60%">
+
+**ML • Regression Analysis**
+
+🏘️ Airbnb price prediction using property features  
+🔍 K-Means clustering for market segmentation
+
+**Models:**
+- Linear Regression
+- Random Forest
+- SVR & Neural Networks
+
+</td>
+<td width="40%">
+
+**Tech Stack**
+```
+Python
+Scikit-learn
+Pandas
+Matplotlib
+```
+
+**Results**
+- Multi-model comparison
+- Feature importance
+- Market insights
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 [Throne of Art](#)
+<table>
+<tr>
+<td width="60%">
+
+**Full-Stack • E-Commerce**
+
+🛒 Handcrafted goods marketplace  
+🔐 Role-based access + secure auth  
+📄 Automated invoice generation
+
+**Features:**
+- Product catalog & search
+- Artisan/Buyer dashboards
+- PDF invoice email system
+
+</td>
+<td width="40%">
+
+**Tech Stack**
+```
+Flask
+PostgreSQL
+Supabase
+HTML/CSS/JS
+```
+
+**Security**
+- JWT authentication
+- Brute-force protection
+- Account lockout system
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Other Notable Projects
+
+<table>
+<tr>
+<td width="33%">
+
+**💬 LikeLoop**  
+Instagram Clone
+
+`MERN Stack`  
+`Cloudinary`
+
+</td>
+<td width="33%">
+
+**💰 Crowdfunding**  
+Campaign Platform
+
+`Flask` `MySQL`  
+`JavaScript`
+
+</td>
+<td width="33%">
+
+**🌐 Custom DHCP**  
+Network Protocol
+
+`Python` `Sockets`  
+`SSL/TLS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
 ### **Freelance Full-Stack Developer** @ AutoML Platform
-`Nov 2024` • `Remote` • `Production Delivery in 1 Week`
+`Nov 2024` • `1 Week Sprint` • ✅ `Client Approved`
 
-**The Brief:** Build a production-ready auth system in one week for a client's ML platform.
+**Delivered:** Production auth system  
+**Stack:** React • FastAPI • Firebase • MongoDB • JWT
 
-**What I Delivered:**
-- 🔐 **Complete Authentication Flow:** Login, signup, email verification, password reset
-- ⚛️ **Frontend:** React with protected routes and auth state management
-- ⚡ **Backend:** FastAPI with JWT-based session handling
-- 🔥 **Auth Provider:** Firebase Authentication integration
-- 🗄️ **Database:** MongoDB for persistent user data
-- ✅ **Outcome:** Delivered on time, reviewed and approved by client stakeholders
+🔐 Complete auth flow | ⚛️ Protected routes | ⚡ JWT sessions | 🗄️ Persistent storage
 
-**Tech Stack:** `React` `FastAPI` `Firebase` `MongoDB` `JWT`
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-```bash
-user@shehzaad:~$ cat education.txt
-```
-
-<table width="100%">
+<table>
 <tr>
-<td width="60%">
+<td align="center">
 
-**🎓 PES University, Bengaluru**  
-*B.Tech in Computer Science and Engineering*  
-📅 2023 – 2027 | 🎯 CGPA: **8.26/10** (5th sem)
-
-**Core Coursework:**
-- Data Structures & Algorithms
-- Operating Systems & Computer Networks
-- Distributed Systems & Cloud Computing
-- Machine Learning & Generative AI
+**🎓 PES University**  
+B.Tech Computer Science  
+2023 – 2027 | **8.26 CGPA**
 
 </td>
-<td width="40%">
+<td align="center">
 
-**📚 Academic Excellence**
+**📚 Pre-University**  
+St. Francis College  
+**95.16%**
 
-**Pre-University:**  
-St. Francis PU College  
-📊 **95.16%**
+</td>
+<td align="center">
 
-**High School:**  
-St. Mira's High School  
-📊 **95.6%**
+**🏫 High School**  
+St. Mira's School  
+**95.6%**
 
 </td>
 </tr>
@@ -453,96 +443,115 @@ St. Mira's High School
 
 ---
 
-## 🔬 Current Work — Capstone Project
+## 🔬 Current Project — E.C.H.O
 
-```bash
-user@shehzaad:~$ ./capstone_status.sh
-> Status: IN_DEVELOPMENT
-> Progress: 65%
-```
+<div align="center">
 
-### **E.C.H.O — Efficient Contextualized History Orchestrator**
-> *An AI-powered Chrome extension that makes your digital history actually useful.*
+### **Efficient Contextualized History Orchestrator**
+*AI-powered Chrome extension | Privacy-first digital memory*
 
-**The Problem:**  
-Your browser history, Gmail, and YouTube activity are disconnected data silos. Finding "that article I read 2 weeks ago" is impossible.
+</div>
 
-**The Solution:**
-- 🔍 **Unified Search:** Natural language queries across Gmail, Chrome history, and YouTube
-- 🧠 **RAG-based Retrieval:** Vector embeddings + semantic search for contextual recall
-- 🔒 **Privacy-First Architecture:** All data stored locally with vector database
-- 📊 **Digital Wellbeing Analytics:** Insights into browsing patterns and time allocation
+<table>
+<tr>
+<td align="center" width="25%">
 
-**Tech Stack:** `React` `Chrome Extensions API` `Vector DB` `RAG` `Local LLMs`
+🔍  
+**Unified Search**  
+Gmail + Browser + YouTube
+
+</td>
+<td align="center" width="25%">
+
+🧠  
+**RAG Retrieval**  
+Vector embeddings
+
+</td>
+<td align="center" width="25%">
+
+🔒  
+**Privacy First**  
+All data local
+
+</td>
+<td align="center" width="25%">
+
+📊  
+**Analytics**  
+Digital wellbeing
+
+</td>
+</tr>
+</table>
+
+`React` • `Chrome API` • `Vector DB` • `RAG` • `Local LLMs`
 
 ---
 
-## 🎯 What I'm Exploring Now
+## 🎯 Current Focus
 
-```python
-user@shehzaad:~$ cat current_focus.py
+<table>
+<tr>
+<td align="center" width="25%">
 
-current_focus = {
-    "systems": [
-        "Rust for systems programming",
-        "Distributed consensus (Paxos/Raft)"
-    ],
-    "ml_ops": [
-        "Model deployment pipelines",
-        "A/B testing infrastructure"
-    ],
-    "ai": [
-        "Agentic AI systems",
-        "RAG optimization",
-        "LLM fine-tuning"
-    ],
-    "learning": [
-        "Advanced algorithms",
-        "System design patterns"
-    ]
-}
+🦀  
+**Rust**  
+Systems programming
 
-print(f"🚀 Currently focused on {len(current_focus)} major areas")
-```
+</td>
+<td align="center" width="25%">
+
+🔄  
+**Distributed Systems**  
+Paxos & Raft
+
+</td>
+<td align="center" width="25%">
+
+🤖  
+**MLOps**  
+Deployment pipelines
+
+</td>
+<td align="center" width="25%">
+
+🧠  
+**Agentic AI**  
+RAG & LLM tuning
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌟 Core Principles
 
-```bash
-user@shehzaad:~$ cat ~/.philosophy
+```python
+principles = {
+    "🎯": "Think in systems, not just code",
+    "🚀": "Ship fast, iterate faster",
+    "❓": "Question everything. Understand WHY",
+    "⚡": "Build to learn, not to pad resume"
+}
 ```
-
-> **Think in Systems** — Every bug is a system failure. Every optimization is a trade-off.
-
-> **Build to Learn** — Projects aren't resume padding. They're how I understand how things *actually* work.
-
-> **Ship, Then Iterate** — Perfect code that never ships helps no one. Working code that improves helps everyone.
-
-> **Question Everything** — Why does MapReduce use this partitioning? Why does TCP need three handshakes? Understanding the "why" makes you dangerous.
 
 ---
 
 ## 📫 Let's Connect
 
-```bash
-user@shehzaad:~$ ./connect.sh --mode=professional
-```
-
-I'm always interested in discussing:
-- 🤖 ML system design and production challenges
-- 🏗️ Distributed systems architecture
-- 💡 Open-source collaboration opportunities
-- 🎯 Interesting problems that need solving
-
 <div align="center">
 
-**Reach out:**
+**Open to discuss:** ML Systems • Distributed Architecture • Open Source • Hard Problems
+
+<br/>
 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshehzaadkhan001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehzaad-khan-b25619346)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehzaad-khan)
 [![LeetCode](https://img.shields.io/badge/💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shehzaad_khan)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shehzaad-portfolio.vercel.app/)
 
 </div>
 
@@ -550,26 +559,10 @@ I'm always interested in discussing:
 
 <div align="center">
 
-```bash
-user@shehzaad:~$ fortune | cowsay
-```
-
-```
- _________________________________________
-/ "The best way to predict the future    \
-\ is to build it — one commit at a time." /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
-**⭐ If you find my work interesting, consider starring some repos!**
+### ⭐ **Thanks for visiting!** ⭐
 
 ```bash
-user@shehzaad:~$ echo "Thanks for visiting! 🚀"
+echo "Let's build something amazing together 🚀"
 ```
 
 </div>
