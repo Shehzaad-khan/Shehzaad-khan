@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=1000&color=FFA657&center=true&vCenter=true&width=600&lines=SHEHZAAD+KHAN" alt="Name" />
+<h1><b><span style="color: #FF8C42;">SHEHZAAD KHAN</span></b></h1>
 
 ### `Systems Thinker` • `ML Engineer` • `Builder of Intelligent Systems`
 
