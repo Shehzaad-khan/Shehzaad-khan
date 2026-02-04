@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=550&lines=Computer+Science+Engineer+%7C+Systems+%26+ML)](https://git.io/typing-svg)
+**Computer Science Engineer**
 
 </div>
 
@@ -112,7 +112,7 @@ Ask Me:     DSA, Distributed Systems, Backend Dev, ML Fundamentals
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=dracula&hide_border=true&background=282a36&stroke=44475a&ring=bd93f9&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=6272a4" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Shehzaad-khan&theme=dracula&hide_border=true&background=282a36" alt="GitHub Streak"/>
 
 </div>
 
