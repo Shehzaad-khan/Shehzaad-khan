@@ -114,7 +114,7 @@ Ask Me:     DSA, Distributed Systems, Backend Dev, ML Fundamentals
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shehzaad-khan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=dark&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
