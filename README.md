@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner with Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shehzaad%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer&descAlignY=52&descSize=18" width="100%"/>
-
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shehzaad;A+curious+engineer+driven+by+fundamentals" alt="Typing SVG" /></a>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Shehzaad%20Khan&fontSize=45&fontColor=fff&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -12,7 +9,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="280" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/>
 
 Hi, I'm **Shehzaad**, a computer science engineer who opens his laptop every day not knowing whether the session will start with reading, learning, or coding, and lets curiosity decide the rest.
 
