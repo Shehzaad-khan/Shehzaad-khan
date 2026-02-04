@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Shehzaad%20Khan&fontSize=45&fontColor=fff&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=150&section=header&text=Shehzaad%20Khan&fontSize=45&fontColor=fff&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="280" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 Hi, I'm **Shehzaad**, a computer science engineer who opens his laptop every day not knowing whether the session will start with reading, learning, or coding, and lets curiosity decide the rest.
 
@@ -21,36 +21,21 @@ I'm driven by fundamentals and inspired by how systems behave at scale, often mo
 
 ## 👨‍💻 What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🔭 Currently Working On
-**E.C.H.O** — an AI powered, privacy first Chrome extension that acts as a personal digital memory. It unifies everyday browser activity like Gmail, Chrome history, and YouTube into a locally stored, searchable knowledge layer using vector embeddings and retrieval augmented generation, with a strong focus on user control, transparency, and reduced cognitive overload.
+🔭 **Currently Working On**  
+**E.C.H.O** — an AI powered, privacy first Chrome extension that acts as a personal digital memory. It unifies everyday browser activity like Gmail, Chrome history, and YouTube into a locally stored, searchable knowledge layer.
 
-</td>
-<td width="50%">
+🌱 **Currently Learning**  
+Advanced machine learning, data analytics, generative AI, and large scale system design.
 
-### 🌱 Currently Learning
-Advanced machine learning, data analytics, generative AI, and large scale system design, with an emphasis on understanding fundamentals and real world system behavior.
+💬 **Ask Me About**  
+Data structures & algorithms, distributed systems, backend development, and ML fundamentals.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+⚡ **Fun Fact**  
+Opening my laptop to code, learn, and reinforce concepts is no longer a routine — it's my bread and butter.
 
-### 💬 Ask Me About
-Data structures and algorithms, distributed systems, backend development, machine learning fundamentals, and designing systems that balance correctness, scalability, and usability.
-
-</td>
-<td width="50%">
-
-### ⚡ Fun Fact
-Opening my laptop to code, learn, and reinforce concepts is no longer a routine, it's my bread and butter.
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -129,12 +114,11 @@ Opening my laptop to code, learn, and reinforce concepts is no longer a routine,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shehzaad-khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzaad-khan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=8" alt="Top Languages" height="170"/>
+![Shehzaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shehzaad-khan&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzaad-khan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehzaad-khan&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Shehzaad-khan&theme=tokyonight&hide_border=true)
 
 </div>
 
