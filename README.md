@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:44475a&height=130&section=header&text=Shehzaad%20Khan&fontSize=48&fontColor=bd93f9&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:44475a&height=160&section=header&text=Shehzaad%20Khan&fontSize=48&fontColor=bd93f9&fontAlignY=40&desc=Computer%20Science%20Engineer&descSize=18&descAlignY=65&descColor=f8f8f2&animation=fadeIn" width="100%"/>
 
 <br/>
 
-**Computer Science Engineer**
+<!-- Typing animation -->
+<a href="https://github.com/Shehzaad-khan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=BD93F9&background=00000000&center=true&vCenter=true&width=520&lines=Backend+%26+Systems+Engineer;ML+%7C+Distributed+Systems+%7C+GenAI;Currently+building+E.C.H.O+%E2%80%94+AI+Browser+Memory;Curiosity-driven+%2C+fundamentals-first." alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -13,17 +16,7 @@
 
 ## About
 
-Hi, I'm **Shehzaad**, a computer science engineer who opens his laptop every day not knowing whether the session will start with reading, learning, or coding, and lets curiosity decide the rest. I'm driven by fundamentals and inspired by how systems behave at scale, often moving from low level logic to building and understanding larger systems. Following the right question rather than a fixed plan has helped me develop broad, connected knowledge, and opening my laptop to code, learn, and reinforce concepts is no longer a routine, it's my bread and butter.
-
-<br/>
-
-## Currently
-
-```yaml
-Working On: E.C.H.O — AI-powered, privacy-first browser memory
-Learning:   Advanced ML, Generative AI, Large-scale System Design
-Ask Me:     DSA, Distributed Systems, Backend Dev, ML Fundamentals
-```
+I'm **Shehzaad** — a computer science engineer who lets curiosity set the agenda. Some days that means tracing logic down to the metal; other days it means reasoning about systems at scale. Either way, the laptop opens and something gets built or understood. I care deeply about fundamentals — not as gatekeeping, but because they're the only reliable map when the terrain changes. That habit of asking the right question first has wired my knowledge in a way that connects low level mechanics to large scale architecture, and I wouldn't have it any other way.
 
 <br/>
 
@@ -126,7 +119,9 @@ Ask Me:     DSA, Distributed Systems, Backend Dev, ML Fundamentals
 
 <br/><br/>
 
-<sub>*An adaptive engineer — improving with experience, iteration, and real-world feedback.*</sub>
+<sub>*Improving with every system built, every abstraction broken down, every question worth chasing.*</sub>
 
 </div>
 
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44475a,100:282a36&height=100&section=footer" width="100%"/>
