@@ -114,7 +114,7 @@ I'm **Shehzaad** — a computer science engineer who lets curiosity set the agen
 
 <br/><br/>
 
-<sub>*Improving with every system built, every abstraction broken down, every question worth chasing.*</sub>
+<I>Every abstraction I trust, I've earned by knowing what it's hiding.</I>
 
 </div>
 
