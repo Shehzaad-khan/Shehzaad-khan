@@ -5,11 +5,6 @@
 
 <br/>
 
-<!-- Typing animation -->
-<a href="https://github.com/Shehzaad-khan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=BD93F9&background=00000000&center=true&vCenter=true&width=520&lines=Backend+%26+Systems+Engineer;ML+%7C+Distributed+Systems+%7C+GenAI;Currently+building+E.C.H.O+%E2%80%94+AI+Browser+Memory;Curiosity-driven+%2C+fundamentals-first." alt="Typing SVG" />
-</a>
-
 </div>
 
 <br/>
