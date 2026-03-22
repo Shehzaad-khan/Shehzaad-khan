@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:44475a&height=160&section=header&text=Shehzaad%20Khan&fontSize=48&fontColor=bd93f9&fontAlignY=40&desc=Computer%20Science%20Engineer&descSize=18&descAlignY=65&descColor=f8f8f2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:44475a&height=180&section=header&text=Shehzaad%20Khan&fontSize=58&fontColor=bd93f9&fontAlignY=42&desc=Computer%20Science%20Engineer&descSize=22&descAlignY=68&descColor=f8f8f2&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -19,10 +19,10 @@ I'm **Shehzaad** — a computer science engineer who lets curiosity set the agen
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-282a36?style=flat-square&logo=vercel&logoColor=bd93f9)](https://shehzaad-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=flat-square&logo=linkedin&logoColor=bd93f9)](https://www.linkedin.com/in/shehzaad-khan-b25619346/)
-[![GitHub](https://img.shields.io/badge/GitHub-282a36?style=flat-square&logo=github&logoColor=bd93f9)](https://github.com/Shehzaad-khan)
-[![Email](https://img.shields.io/badge/Email-282a36?style=flat-square&logo=gmail&logoColor=bd93f9)](mailto:mdshehzaadkhan001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=vercel&logoColor=bd93f9)](https://shehzaad-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=bd93f9)](https://www.linkedin.com/in/shehzaad-khan-b25619346/)
+[![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=bd93f9)](https://github.com/Shehzaad-khan)
+[![Email](https://img.shields.io/badge/Email-282a36?style=for-the-badge&logo=gmail&logoColor=bd93f9)](mailto:mdshehzaadkhan001@gmail.com)
 
 </div>
 
@@ -34,56 +34,56 @@ I'm **Shehzaad** — a computer science engineer who lets curiosity set the agen
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-282a36?style=flat-square&logo=c&logoColor=bd93f9)
-![C++](https://img.shields.io/badge/C++-282a36?style=flat-square&logo=c%2B%2B&logoColor=bd93f9)
-![Java](https://img.shields.io/badge/Java-282a36?style=flat-square&logo=openjdk&logoColor=bd93f9)
-![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=bd93f9)
-![Scala](https://img.shields.io/badge/Scala-282a36?style=flat-square&logo=scala&logoColor=bd93f9)
-![JavaScript](https://img.shields.io/badge/JavaScript-282a36?style=flat-square&logo=javascript&logoColor=bd93f9)
+![C](https://img.shields.io/badge/C-282a36?style=for-the-badge&logo=c&logoColor=bd93f9)
+![C++](https://img.shields.io/badge/C++-282a36?style=for-the-badge&logo=c%2B%2B&logoColor=bd93f9)
+![Java](https://img.shields.io/badge/Java-282a36?style=for-the-badge&logo=openjdk&logoColor=bd93f9)
+![Python](https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=bd93f9)
+![Scala](https://img.shields.io/badge/Scala-282a36?style=for-the-badge&logo=scala&logoColor=bd93f9)
+![JavaScript](https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=bd93f9)
 
 **Web & Backend**
 
-![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=bd93f9)
-![Next.js](https://img.shields.io/badge/Next.js-282a36?style=flat-square&logo=next.js&logoColor=bd93f9)
-![Node.js](https://img.shields.io/badge/Node.js-282a36?style=flat-square&logo=node.js&logoColor=bd93f9)
-![Express](https://img.shields.io/badge/Express-282a36?style=flat-square&logo=express&logoColor=bd93f9)
-![Flask](https://img.shields.io/badge/Flask-282a36?style=flat-square&logo=flask&logoColor=bd93f9)
-![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=flat-square&logo=fastapi&logoColor=bd93f9)
-![Django](https://img.shields.io/badge/Django-282a36?style=flat-square&logo=django&logoColor=bd93f9)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-282a36?style=flat-square&logo=tailwind-css&logoColor=bd93f9)
+![React](https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=bd93f9)
+![Next.js](https://img.shields.io/badge/Next.js-282a36?style=for-the-badge&logo=next.js&logoColor=bd93f9)
+![Node.js](https://img.shields.io/badge/Node.js-282a36?style=for-the-badge&logo=node.js&logoColor=bd93f9)
+![Express](https://img.shields.io/badge/Express-282a36?style=for-the-badge&logo=express&logoColor=bd93f9)
+![Flask](https://img.shields.io/badge/Flask-282a36?style=for-the-badge&logo=flask&logoColor=bd93f9)
+![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=for-the-badge&logo=fastapi&logoColor=bd93f9)
+![Django](https://img.shields.io/badge/Django-282a36?style=for-the-badge&logo=django&logoColor=bd93f9)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-282a36?style=for-the-badge&logo=tailwind-css&logoColor=bd93f9)
 
 **AI & Data**
 
-![NumPy](https://img.shields.io/badge/NumPy-282a36?style=flat-square&logo=numpy&logoColor=bd93f9)
-![Pandas](https://img.shields.io/badge/Pandas-282a36?style=flat-square&logo=pandas&logoColor=bd93f9)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-282a36?style=flat-square&logo=scikit-learn&logoColor=bd93f9)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-282a36?style=flat-square&logo=tensorflow&logoColor=bd93f9)
-![PyTorch](https://img.shields.io/badge/PyTorch-282a36?style=flat-square&logo=pytorch&logoColor=bd93f9)
+![NumPy](https://img.shields.io/badge/NumPy-282a36?style=for-the-badge&logo=numpy&logoColor=bd93f9)
+![Pandas](https://img.shields.io/badge/Pandas-282a36?style=for-the-badge&logo=pandas&logoColor=bd93f9)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-282a36?style=for-the-badge&logo=scikit-learn&logoColor=bd93f9)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-282a36?style=for-the-badge&logo=tensorflow&logoColor=bd93f9)
+![PyTorch](https://img.shields.io/badge/PyTorch-282a36?style=for-the-badge&logo=pytorch&logoColor=bd93f9)
 
 **Big Data**
 
-![Hadoop](https://img.shields.io/badge/Hadoop-282a36?style=flat-square&logo=apachehadoop&logoColor=bd93f9)
-![Spark](https://img.shields.io/badge/Spark-282a36?style=flat-square&logo=apachespark&logoColor=bd93f9)
-![Kafka](https://img.shields.io/badge/Kafka-282a36?style=flat-square&logo=apachekafka&logoColor=bd93f9)
-![Hive](https://img.shields.io/badge/Hive-282a36?style=flat-square&logo=apachehive&logoColor=bd93f9)
+![Hadoop](https://img.shields.io/badge/Hadoop-282a36?style=for-the-badge&logo=apachehadoop&logoColor=bd93f9)
+![Spark](https://img.shields.io/badge/Spark-282a36?style=for-the-badge&logo=apachespark&logoColor=bd93f9)
+![Kafka](https://img.shields.io/badge/Kafka-282a36?style=for-the-badge&logo=apachekafka&logoColor=bd93f9)
+![Hive](https://img.shields.io/badge/Hive-282a36?style=for-the-badge&logo=apachehive&logoColor=bd93f9)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-282a36?style=flat-square&logo=mysql&logoColor=bd93f9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282a36?style=flat-square&logo=postgresql&logoColor=bd93f9)
-![MongoDB](https://img.shields.io/badge/MongoDB-282a36?style=flat-square&logo=mongodb&logoColor=bd93f9)
-![Redis](https://img.shields.io/badge/Redis-282a36?style=flat-square&logo=redis&logoColor=bd93f9)
-![Firebase](https://img.shields.io/badge/Firebase-282a36?style=flat-square&logo=firebase&logoColor=bd93f9)
-![Supabase](https://img.shields.io/badge/Supabase-282a36?style=flat-square&logo=supabase&logoColor=bd93f9)
+![MySQL](https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=bd93f9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=bd93f9)
+![MongoDB](https://img.shields.io/badge/MongoDB-282a36?style=for-the-badge&logo=mongodb&logoColor=bd93f9)
+![Redis](https://img.shields.io/badge/Redis-282a36?style=for-the-badge&logo=redis&logoColor=bd93f9)
+![Firebase](https://img.shields.io/badge/Firebase-282a36?style=for-the-badge&logo=firebase&logoColor=bd93f9)
+![Supabase](https://img.shields.io/badge/Supabase-282a36?style=for-the-badge&logo=supabase&logoColor=bd93f9)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-282a36?style=flat-square&logo=amazon-aws&logoColor=bd93f9)
-![Azure](https://img.shields.io/badge/Azure-282a36?style=flat-square&logo=microsoftazure&logoColor=bd93f9)
-![GCP](https://img.shields.io/badge/GCP-282a36?style=flat-square&logo=google-cloud&logoColor=bd93f9)
-![Docker](https://img.shields.io/badge/Docker-282a36?style=flat-square&logo=docker&logoColor=bd93f9)
-![Git](https://img.shields.io/badge/Git-282a36?style=flat-square&logo=git&logoColor=bd93f9)
-![GitHub Actions](https://img.shields.io/badge/Actions-282a36?style=flat-square&logo=github-actions&logoColor=bd93f9)
+![AWS](https://img.shields.io/badge/AWS-282a36?style=for-the-badge&logo=amazon-aws&logoColor=bd93f9)
+![Azure](https://img.shields.io/badge/Azure-282a36?style=for-the-badge&logo=microsoftazure&logoColor=bd93f9)
+![GCP](https://img.shields.io/badge/GCP-282a36?style=for-the-badge&logo=google-cloud&logoColor=bd93f9)
+![Docker](https://img.shields.io/badge/Docker-282a36?style=for-the-badge&logo=docker&logoColor=bd93f9)
+![Git](https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=bd93f9)
+![GitHub Actions](https://img.shields.io/badge/Actions-282a36?style=for-the-badge&logo=github-actions&logoColor=bd93f9)
 
 </div>
 
@@ -110,7 +110,7 @@ I'm **Shehzaad** — a computer science engineer who lets curiosity set the agen
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shehzaad-khan&style=flat-square&color=282a36&labelColor=282a36" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Shehzaad-khan&style=for-the-badge&color=282a36&labelColor=282a36" alt="Profile Views"/>
 
 <br/><br/>
 
